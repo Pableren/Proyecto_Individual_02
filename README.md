@@ -5,9 +5,10 @@
 2. [Instalacion y requisitos](#instalacion-y-requisitos)
 3. [Etl y carga de datos](#etl-y-carga-de-datos)
 4. [Eda](#eda)
-5. [Documentos del proyecto](#documentos-del-proyecto)
-6. [Datos y Fuentes](#datos-y-fuentes)
-7. [Autor](#autor)
+5. [Dashboard](#dashboard)
+6. [Documentos del proyecto](#documentos-del-proyecto)
+7. [Datos y Fuentes](#datos-y-fuentes)
+8. [Autor](#autor)
 
 ### Contexto
 En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
@@ -41,6 +42,9 @@ En el analisis exploratorio de los datos se observo que:
 - La empresa tiene una oportunidad para seguir creciendo si se enfoca en ofrecer planes de internet con mayor velocidad y expandir su cobertura a zonas donde aún no tiene presencia.
 - Es importante monitorear las tendencias del mercado y adaptar la oferta a las necesidades de los clientes para mantener una posición competitiva.
 - La demanda de acceso a internet en Argentina sigue en aumento, especialmente en las categorías de mayores velocidades. La empresa tiene una gran oportunidad de crecimiento si se enfoca en ofrecer planes de internet de alta velocidad y expande su cobertura a áreas no atendidas. 
+
+### Dashboard
+La empresa nos pidio calcular varios kpis para los accesos a internet y el porcentaje de penetracion a internet de los hogares. Para ello se procedio a crear el trablero interactivo donde se midieron los kpis y se evaluo el rendimiento de la empresa.
 
 ### Documentos del proyecto
 - data_pi02/: Contiene los datasets del proyecto.
