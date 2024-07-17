@@ -50,6 +50,7 @@ La empresa nos pidio calcular varios kpis para los accesos a internet y el porce
 - data_pi02/: Contiene los datasets del proyecto.
 - EDA.ipynb: Contiene el analisis exploratorio de los datos
 - Etl_carga_datos: Contiene todos los pasos de etl y la ingesta a la base de datos.
+- dashboard_pi02.pbix: dashboard interactivo.
 - README.md: Documentacion del proyecto
 
 ### Datos y fuentes
