@@ -1,5 +1,3 @@
-# Proyecto_Individual_02: Telecomunicaciones
-
 # Proyecto Individual 02: Telecomunicaciones: Internet
 ### Tabla de contenidos
 
